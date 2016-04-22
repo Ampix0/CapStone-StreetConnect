@@ -1,0 +1,11 @@
+{
+  "name": "streetconnect",
+  "version": "1.0.0",
+  "description": "Capstone project for ITT tech project. Theoretical business webpage for a 'public-wifi-booth'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
