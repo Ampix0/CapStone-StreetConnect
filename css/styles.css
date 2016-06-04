@@ -29,6 +29,8 @@ h1 {
   background-color: #FFF;
   display: flex;
   flex-direction: column; }
+  .bottom h1 {
+    padding: 0.5em; }
 
 .jumboWrapper {
   background-image: url("../img/jumboBackground.jpg");
